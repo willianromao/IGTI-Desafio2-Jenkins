@@ -11,10 +11,10 @@ terraform {
 
 provider "azurerm" {
   features {}
-  subscription_id = "$AZURE_SUBSCRIPTION_ID"
-  client_id       = "$AZURE_CLIENT_ID"
-  client_secret   = "$AZURE_CLIENT_SECRET"
-  tenant_id       = "$AZURE_TENANT_ID"
+  subscription_id = "$RD_AZURE_SUBSCRIPTION_ID"
+  client_id       = "$RD_AZURE_CLIENT_ID"
+  client_secret   = "$RD_AZURE_CLIENT_SECRET"
+  tenant_id       = "$RD_AZURE_TENANT_ID"
 }
 
 resource "azurerm_resource_group" "rg" {
