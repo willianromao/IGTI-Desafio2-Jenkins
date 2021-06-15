@@ -94,3 +94,4 @@ pipeline {
 
 }
 ```
+![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline.jpg)
