@@ -94,7 +94,7 @@ pipeline {
 
 }
 ```
-![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline1.PNG)
+![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline1.PNG) 
 ![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline2.PNG)
 ![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline3.PNG)
 ![alt text](https://willianromaocursos.blob.core.windows.net/public/IGTI-Desafio2-DevOps-Pipeline4.PNG)
